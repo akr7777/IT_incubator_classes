@@ -13,8 +13,9 @@ const App = () => {
             <Rating value={2}/>
             <div>Article 2</div>
             <Rating value={3}/>
-            <Accordion titleValue={"This is ACC1"} collapsed={false}/>
-            <Accordion titleValue={"This is ACC number 2"} collapsed={true}/>
+            <Accordion titleValue={"This is ACC1"} collapsed={true}/>
+            <Accordion titleValue={"This is ACC number 2"} collapsed={true}git/>
+
         </div>
     );
 }

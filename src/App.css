@@ -1,7 +1,10 @@
 .App {
   text-align: center;
 }
-
+ul li {
+  color: red;
+  list-style-type: georgian;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
